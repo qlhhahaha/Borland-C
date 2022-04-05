@@ -1,13 +1,13 @@
-## <center>华中科技大学人工智能与自动化学院C语言课程设计</center>
-## <center>疫情物资捐赠平台</center>
-## <center>*proudly supported by Borland C* 😍😍😍</center>
-
+## 华中科技大学人工智能与自动化学院C语言课程设计
+## 疫情物资捐赠平台
+## *proudly supported by Borland C* 😍😍😍
 
 本系统可以在 win2000/winxp/vista/win7 下完美使用 Borland C/C++ 3.1，包括图形程序。
 所有环境均已经配置好，不用修改。
 双击执行“Borland C++ 3.1”即可。
 
 由于虚拟了 DOS 环境，文件夹 DISK_C 就是 C:\，使用文件路径的时候需要注意。
+
 例如，图形程序中初始化图形环境的代码：
 
 ~~~c
